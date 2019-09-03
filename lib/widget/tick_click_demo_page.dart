@@ -111,7 +111,7 @@ class _ClickAnimationPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     init(size);
 
-    canvas.drawColor(Colors.black, BlendMode.clear);
+    //canvas.drawColor(Colors.black, BlendMode.clear);
     canvas.save();
     canvas.translate(paintWidth / 2, paintHeight / 2);
 
