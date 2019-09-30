@@ -1,6 +1,6 @@
-# GSY Flutter Demo Web
+# 弃用，因flutter master 已将 flutter web 合并到主项目，web 已回归 [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo)
 
-### 不同于 [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) 项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手。
+### 不同于 [GSYGithubAppFlutter](https://github.com/CarGuo/gsy_github_app_flutter) 项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手。
 
 ### [Web 版在线测试](https://guoshuyu.cn/home/web/#/)
 
@@ -67,7 +67,7 @@
 
 ----
 
-- ## [Flutter 完整开发实战详解 Gitbook 预览下载](https://github.com/CarGuo/GSYFlutterBook)
+- ## [Flutter 完整开发实战详解 Gitbook 预览下载](https://github.com/CarGuo/gsy_flutter_book)
 
 
 ![](https://github.com/CarGuo/GSYFlutterDemoWeb/blob/master/thanks.jpg)
